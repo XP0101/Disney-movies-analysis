@@ -6,7 +6,7 @@ Data is about Disney movies along with box office success, annual gross income a
 
 [Disney characters, box office success & annual gross income](https://data.world/kgarrett/disney-character-success-00-16)
 
-## Planning:
+## Planning: [(link)](https://docs.google.com/document/d/10CMsJrDkoJliwdCXxcdQ49u4T7IETA33MqbdH_Q5990/edit?usp=sharing)
 | Task  |         Name        | Process |
 | :-------- | :-------            | :------------------------- |
 | Collecting data  | Trung Hiếu | 100% |
